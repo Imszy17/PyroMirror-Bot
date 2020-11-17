@@ -2,7 +2,7 @@
 
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
-This repository is a fork of [python-ária-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) with improvements for Heroku
+This repository is a fork of [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) with improvements for Heroku
 
 # Features
 
